@@ -1,2 +1,2 @@
-# Pythobmn-Basics
+# Python-Basics
 An Introduction to Python
